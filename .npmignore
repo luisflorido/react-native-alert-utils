@@ -1,0 +1,9 @@
+node_modules
+*.log
+.vscode
+*.lock
+
+example/.expo
+example/node_modules
+example/*.log
+example/*.lock
