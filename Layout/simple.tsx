@@ -27,7 +27,6 @@ const Layout = (props: LayoutProps) => {
     },
     children,
   } = props;
-  console.log(padding);
   return (
     <View style={[styles.container, {
       backgroundColor, width, height, padding,
